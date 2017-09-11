@@ -9,7 +9,7 @@ public class first {
 		Scanner scanner=new Scanner(System.in);
 		
 		System.out.println("*************************************************************");
-		System.out.println("warnig:学校规定，如果有5门或5门以上必修课不及格的话，就要留级。");
+		System.out.println("warnig:学校规定23333，如果有5门或5门以上必修课不及格的话，就要留级。");
 		System.out.println("*************************************************************");
 		
 		System.out.print("请输入学生姓名：");
